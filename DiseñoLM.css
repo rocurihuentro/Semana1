@@ -1,0 +1,30 @@
+.muestra{
+    width:200px;
+    border-radius:160px;
+    border:10px solid #666;
+}
+.titulo{
+    color: white;
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+}
+.subtitulos{
+    text-align: center;
+    color: white;
+}
+.tele{
+    margin-left: 20%;
+
+}
+.integrantes{
+    margin-left: 35%;
+    color: white;
+}
+.tbl{
+    padding-left: 15%;
+}
+.drc{
+    color: white;
+}
+.lorem{
+    color: white;
+}
